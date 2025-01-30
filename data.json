@@ -1,5 +1,10 @@
 {
     "versionrbx": "1.2.3",
     "o_link": "https:\/\/oldlink.com",
-    "n_link": "https:\/\/newlink.com"
+    "n_link": "https:\/\/newlink.com",
+    "0": {
+        "versionrbx": "1.2.4",
+        "o_link": "https:\/\/example.com\/old",
+        "n_link": "https:\/\/example.com\/new"
+    }
 }
