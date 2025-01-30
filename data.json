@@ -6,5 +6,10 @@
         "versionrbx": "1.2.4",
         "o_link": "https:\/\/example.com\/old",
         "n_link": "https:\/\/example.com\/new"
+    },
+    "1": {
+        "versionrbx": "1.2.4",
+        "o_link": "https:\/\/example.com\/old",
+        "n_link": "https:\/\/example.com\/new"
     }
 }
