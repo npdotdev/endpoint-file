@@ -26,5 +26,12 @@
         "n_link": "https:\/\/github.com\/npdotdev\/endpoint-file\/raw\/refs\/heads\/main\/attachments-000000004926D895",
         "o_chkrbx": "00000000A893D00F",
         "n_chkrbx": "000000004926D895"
+    },
+    {
+        "versionrbx": "version-f9977b146957492c-fix-bsod",
+        "o_link": "https:\/\/github.com\/npdotdev\/endpoint-file\/raw\/refs\/heads\/main\/attachments-000000009768617C",
+        "n_link": "https:\/\/github.com\/npdotdev\/endpoint-file\/raw\/refs\/heads\/main\/attachments-0000000092F554E2",
+        "o_chkrbx": "000000009768617C",
+        "n_chkrbx": "0000000092F554E2"
     }
 ]
